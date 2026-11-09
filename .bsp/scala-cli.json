@@ -1,0 +1,20 @@
+{
+  "name": "scala-cli",
+  "argv": [
+    "/Users/felix-etiennetrepanier/Library/Application Support/Coursier/bin/.scala-cli.aux",
+    "bsp",
+    "--json-options",
+    "/Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/.scala-build/ide-options-v2.json",
+    "--json-launcher-options",
+    "/Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/.scala-build/ide-launcher-options.json",
+    "--envs-file",
+    "/Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/.scala-build/ide-envs.json",
+    "/Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types"
+  ],
+  "version": "1.18.0",
+  "bspVersion": "2.1.1",
+  "languages": [
+    "scala",
+    "java"
+  ]
+}

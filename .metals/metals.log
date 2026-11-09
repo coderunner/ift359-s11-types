@@ -1,0 +1,383 @@
+2026.10.21 11:15:04 INFO  Started: Metals version 1.6.9 in folders '/Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types' for client Visual Studio Code 1.142.0.
+2026.10.21 11:15:04 INFO  Memory monitor started
+2026.10.21 11:15:04 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.10.21 11:15:05 WARN  no build tool detected in workspace '/Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.10.21 11:15:05 WARN  Build server is not auto-connectable.
+2026.10.21 11:15:05 WARN  no build target for: /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java
+2026.10.21 11:15:05 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java. Using fallback presentation compiler.
+2026.10.21 11:15:05 WARN  Running javac-semanticdb failed for file:///Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java. Output:
+
+2026.10.21 11:15:07 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java. Using fallback presentation compiler.
+2026.10.21 11:15:08 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java. Using fallback presentation compiler.
+2026.10.21 11:15:08 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java. Using fallback presentation compiler.
+2026.10.21 11:15:08 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java. Using fallback presentation compiler.
+Oct 21, 2026 11:15:09 A.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11
+2026.10.21 11:15:11 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java. Using fallback presentation compiler.
+2026.10.21 11:15:11 WARN  Running javac-semanticdb failed for file:///Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java. Output:
+
+2026.10.21 11:15:12 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java. Using fallback presentation compiler.
+2026.10.21 11:15:12 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java. Using fallback presentation compiler.
+2026.10.21 11:15:12 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java. Using fallback presentation compiler.
+2026.10.21 11:15:12 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java. Using fallback presentation compiler.
+2026.10.21 11:15:13 WARN  no build target for: /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java
+2026.10.21 11:15:13 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java. Using fallback presentation compiler.
+2026.10.21 11:15:21 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java. Using fallback presentation compiler.
+2026.10.21 11:15:21 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java. Using fallback presentation compiler.
+2026.10.21 11:15:21 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java. Using fallback presentation compiler.
+2026.10.21 11:15:22 WARN  no build target for: /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java
+2026.10.21 11:15:22 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java. Using fallback presentation compiler.
+2026.10.21 15:57:50 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java. Using fallback presentation compiler.
+2026.10.21 15:57:50 WARN  no build target for: /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java
+2026.10.21 15:57:50 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java. Using fallback presentation compiler.
+2026.10.21 15:57:50 WARN  no build target for: /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java
+2026.10.21 15:57:50 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java. Using fallback presentation compiler.
+2026.10.21 15:57:50 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java. Using fallback presentation compiler.
+2026.10.21 15:57:51 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java. Using fallback presentation compiler.
+2026.10.21 15:57:51 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java. Using fallback presentation compiler.
+2026.10.21 15:57:51 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java. Using fallback presentation compiler.
+2026.10.21 15:57:52 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java. Using fallback presentation compiler.
+2026.10.21 15:57:51 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java. Using fallback presentation compiler.
+2026.10.21 15:57:52 WARN  Running javac-semanticdb failed for file:///Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java. Output:
+
+2026.10.21 15:57:52 WARN  no build target for: /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java
+2026.10.21 15:57:52 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java. Using fallback presentation compiler.
+2026.10.21 15:57:53 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java. Using fallback presentation compiler.
+2026.10.21 15:57:53 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java. Using fallback presentation compiler.
+2026.10.21 15:57:54 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java. Using fallback presentation compiler.
+2026.10.21 15:57:54 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java. Using fallback presentation compiler.
+2026.10.21 15:58:02 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java. Using fallback presentation compiler.
+2026.10.21 15:58:02 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java. Using fallback presentation compiler.
+2026.10.21 15:58:24 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java. Using fallback presentation compiler.
+2026.10.21 15:58:24 WARN  no build target for: /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java
+2026.10.21 15:58:24 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java. Using fallback presentation compiler.
+2026.10.21 15:58:24 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java. Using fallback presentation compiler.
+2026.10.21 15:58:24 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java. Using fallback presentation compiler.
+2026.10.21 15:58:24 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java. Using fallback presentation compiler.
+2026.10.21 15:58:26 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java. Using fallback presentation compiler.
+2026.10.21 15:58:26 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java. Using fallback presentation compiler.
+2026.10.21 15:58:26 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java. Using fallback presentation compiler.
+2026.10.21 15:58:27 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java. Using fallback presentation compiler.
+2026.10.21 15:58:27 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java. Using fallback presentation compiler.
+2026.10.21 15:58:27 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java. Using fallback presentation compiler.
+2026.10.21 15:58:27 WARN  Running javac-semanticdb failed for file:///Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java. Output:
+
+2026.10.21 15:58:27 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java. Using fallback presentation compiler.
+2026.10.21 15:58:27 WARN  no build target for: /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java
+2026.10.21 15:58:27 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java. Using fallback presentation compiler.
+2026.10.21 15:58:27 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java. Using fallback presentation compiler.
+2026.10.21 19:50:30 INFO  Shutting down server
+2026.10.21 19:50:30 INFO  Memory monitor stopped
+2026.10.21 19:50:30 INFO  shutting down Metals
+2026.10.21 19:50:30 INFO  Exiting server
+2026.10.22 14:45:32 INFO  Started: Metals version 1.6.9 in folders '/Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types' for client Visual Studio Code 1.142.0.
+2026.10.22 14:45:32 INFO  Memory monitor started
+2026.10.22 14:45:32 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.10.22 14:45:32 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java. Using fallback presentation compiler.
+Oct 22, 2026 2:45:33 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2026.10.22 14:45:32 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java. Using fallback presentation compiler.
+2026.10.22 14:45:33 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java. Using fallback presentation compiler.
+2026.10.22 14:45:33 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java. Using fallback presentation compiler.
+2026.10.22 14:45:33 WARN  no build tool detected in workspace '/Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.10.22 14:45:33 WARN  Build server is not auto-connectable.
+2026.10.22 14:45:33 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java. Using fallback presentation compiler.
+2026.10.22 14:45:33 WARN  no build target for: /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java
+2026.10.22 14:45:33 WARN  Running javac-semanticdb failed for file:///Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java. Output:
+
+2026.10.22 14:45:35 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java. Using fallback presentation compiler.
+2026.10.22 14:45:37 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java. Using fallback presentation compiler.
+2026.10.22 14:48:41 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/fs.scala.worksheet.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.22 14:48:42 WARN  no build target for: /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/fs.scala.worksheet.sc
+2026.10.22 14:48:42 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/fs.scala.worksheet.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.22 14:48:42 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java. Using fallback presentation compiler.
+2026.10.22 14:48:42 WARN  no build target for: /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/fs.scala.worksheet.sc
+2026.10.22 14:48:42 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/fs.scala.worksheet.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.22 14:48:43 INFO  time: evaluated worksheet 'fs.scala.worksheet.sc' in 0.77s
+2026.10.22 14:48:43 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/fs.scala.worksheet.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.22 14:48:43 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/fs.scala.worksheet.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.22 14:48:43 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/fs.scala.worksheet.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.22 14:48:43 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/fs.scala.worksheet.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.22 14:48:44 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/fs.scala.worksheet.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.22 14:48:50 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/fs.scala.worksheet.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.22 14:48:50 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/fs.scala.worksheet.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.22 14:48:50 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/fs.scala.worksheet.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.22 14:48:50 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/fs.scala.worksheet.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.22 14:48:50 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/fs.scala.worksheet.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.22 14:48:50 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/fs.scala.worksheet.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.22 14:48:51 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/fs.scala.worksheet.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.22 14:48:51 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/fs.scala.worksheet.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.22 14:48:51 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/fs.scala.worksheet.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.22 14:48:52 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/fs.scala.worksheet.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.22 14:48:52 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/fs.scala.worksheet.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.22 14:48:56 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/fs.scala.worksheet.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.22 14:49:05 WARN  no build target for: /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/fs.scala.worksheet.sc
+2026.10.22 14:49:05 INFO  time: evaluated worksheet 'fs.scala.worksheet.sc' in 0.31s
+2026.10.22 14:51:32 WARN  no build target for: /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/fs.scala.worksheet.sc
+[31merror[39m: src/fs.scala.worksheet.sc:26:19: 
+Not found: tailleElementFS
+    r.enfants.map(tailleElementFS).sum
+                  ^^^^^^^^^^^^^^^
+2026.10.22 14:51:32 INFO  time: evaluated worksheet 'fs.scala.worksheet.sc' in 0.48s
+2026.10.22 14:55:28 WARN  no build target for: /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/fs.scala.worksheet.sc
+2026.10.22 14:55:29 INFO  time: evaluated worksheet 'fs.scala.worksheet.sc' in 1.31s
+2026.10.22 19:28:13 WARN  no build target for: /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/fs.scala.worksheet.sc
+2026.10.22 19:28:14 INFO  time: evaluated worksheet 'fs.scala.worksheet.sc' in 0.95s
+2026.10.22 19:28:24 WARN  no build target for: /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/fs.scala.worksheet.sc
+2026.10.22 19:28:25 INFO  time: evaluated worksheet 'fs.scala.worksheet.sc' in 0.45s
+2026.10.22 19:28:25 WARN  no build target for: /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/fs.scala.worksheet.sc
+2026.10.22 19:28:25 INFO  time: evaluated worksheet 'fs.scala.worksheet.sc' in 0.32s
+2026.10.22 19:28:27 INFO  Shutting down server
+2026.10.22 19:28:27 INFO  Memory monitor stopped
+2026.10.22 19:28:27 INFO  shutting down Metals
+2026.10.22 19:28:27 INFO  Exiting server
+2026.10.27 10:38:41 INFO  Started: Metals version 1.6.9 in folders '/Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types' for client Visual Studio Code 1.142.0.
+2026.10.27 10:38:41 INFO  Memory monitor started
+2026.10.27 10:38:41 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.10.27 10:38:41 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/fs.scala.worksheet.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.27 10:38:42 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/fs.scala.worksheet.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.27 10:38:42 INFO  time: evaluated worksheet 'fs.scala.worksheet.sc' in 0.12s
+2026.10.27 10:38:52 INFO  Running List(/Users/felix-etiennetrepanier/Library/Application Support/Coursier/bin/scala-cli, setup-ide, /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types)
+2026.10.27 10:38:52 INFO  Attempting to connect to the build server...
+2026.10.27 10:38:52 INFO  Running BSP server List(/Users/felix-etiennetrepanier/Library/Application Support/Coursier/bin/.scala-cli.aux, bsp, --json-options, /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/.scala-build/ide-launcher-options.json, --envs-file, /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/.scala-build/ide-envs.json, /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types)
+2026.10.27 10:38:52 INFO  Tracing is disabled for protocol BSP. To enable tracing of incoming and outgoing JSON messages, create an empty file at /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/.metals/bsp.trace.json or /Users/felix-etiennetrepanier/Library/Caches/org.scalameta.metals/bsp.trace.json
+2026.10.27 10:38:52 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.pom
+2026.10.27 10:38:56 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.pom
+2026.10.27 10:38:56 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar
+2026.10.27 10:38:56 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar
+2026.10.27 10:38:56 INFO  BSP server: Starting compilation server
+2026.10.27 10:38:58 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/scala3-compiler_3/3.9.0/scala3-compiler_3-3.9.0.pom
+2026.10.27 10:38:58 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala3-compiler_3/3.9.0/scala3-compiler_3-3.9.0.pom
+2026.10.27 10:38:58 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.9.0/scala3-library_3-3.9.0.pom
+2026.10.27 10:38:58 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/tasty-core_3/3.9.0/tasty-core_3-3.9.0.pom
+2026.10.27 10:38:58 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/scala3-interfaces/3.9.0/scala3-interfaces-3.9.0.pom
+2026.10.27 10:38:58 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.9.0/scala3-library_3-3.9.0.pom
+2026.10.27 10:38:58 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala3-interfaces/3.9.0/scala3-interfaces-3.9.0.pom
+2026.10.27 10:38:58 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/tasty-core_3/3.9.0/tasty-core_3-3.9.0.pom
+2026.10.27 10:38:58 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/scala-library/3.9.0/scala-library-3.9.0.pom
+2026.10.27 10:38:58 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-library/3.9.0/scala-library-3.9.0.pom
+2026.10.27 10:38:58 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/tasty-core_3/3.9.0/tasty-core_3-3.9.0.jar
+2026.10.27 10:38:58 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.9.0/scala3-library_3-3.9.0.jar
+2026.10.27 10:38:58 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/scala-library/3.9.0/scala-library-3.9.0.jar
+2026.10.27 10:38:58 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/scala3-interfaces/3.9.0/scala3-interfaces-3.9.0.jar
+2026.10.27 10:38:58 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/scala3-compiler_3/3.9.0/scala3-compiler_3-3.9.0.jar
+2026.10.27 10:38:58 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.9.0/scala3-library_3-3.9.0.jar
+2026.10.27 10:38:58 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/tasty-core_3/3.9.0/tasty-core_3-3.9.0.jar
+2026.10.27 10:38:58 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala3-interfaces/3.9.0/scala3-interfaces-3.9.0.jar
+2026.10.27 10:39:09 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-library/3.9.0/scala-library-3.9.0.jar
+2026.10.27 10:39:10 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala3-compiler_3/3.9.0/scala3-compiler_3-3.9.0.jar
+2026.10.27 10:39:10 INFO  BSP server: Downloading https://repo.scala-lang.org/artifactory/maven-nightlies/org/scala-lang/scala3-sbt-bridge/3.9.0/scala3-sbt-bridge-3.9.0.pom
+2026.10.27 10:39:10 INFO  BSP server: Failed to download https://repo.scala-lang.org/artifactory/maven-nightlies/org/scala-lang/scala3-sbt-bridge/3.9.0/scala3-sbt-bridge-3.9.0.pom
+2026.10.27 10:39:10 INFO  BSP server: Downloading https://repo.scala-lang.org/artifactory/maven-nightlies/org/scala-lang/scala3-sbt-bridge/3.9.0/scala3-sbt-bridge-3.9.0.pom.sha1
+2026.10.27 10:39:11 INFO  BSP server: Failed to download https://repo.scala-lang.org/artifactory/maven-nightlies/org/scala-lang/scala3-sbt-bridge/3.9.0/scala3-sbt-bridge-3.9.0.pom.sha1
+2026.10.27 10:39:11 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/scala3-sbt-bridge/3.9.0/scala3-sbt-bridge-3.9.0.pom
+2026.10.27 10:39:11 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala3-sbt-bridge/3.9.0/scala3-sbt-bridge-3.9.0.pom
+2026.10.27 10:39:11 INFO  BSP server: Downloading https://repo.scala-lang.org/artifactory/maven-nightlies/org/scala-lang/scala3-repl_3/3.9.0/scala3-repl_3-3.9.0.pom
+2026.10.27 10:39:11 INFO  BSP server: Failed to download https://repo.scala-lang.org/artifactory/maven-nightlies/org/scala-lang/scala3-repl_3/3.9.0/scala3-repl_3-3.9.0.pom
+2026.10.27 10:39:11 INFO  BSP server: Downloading https://repo.scala-lang.org/artifactory/maven-nightlies/org/scala-lang/scala3-repl_3/3.9.0/scala3-repl_3-3.9.0.pom.sha1
+2026.10.27 10:39:11 INFO  BSP server: Failed to download https://repo.scala-lang.org/artifactory/maven-nightlies/org/scala-lang/scala3-repl_3/3.9.0/scala3-repl_3-3.9.0.pom.sha1
+2026.10.27 10:39:11 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/scala3-repl_3/3.9.0/scala3-repl_3-3.9.0.pom
+2026.10.27 10:39:11 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala3-repl_3/3.9.0/scala3-repl_3-3.9.0.pom
+2026.10.27 10:39:11 INFO  BSP server: Downloading https://repo.scala-lang.org/artifactory/maven-nightlies/org/jline/jline-terminal-jni/4.0.14/jline-terminal-jni-4.0.14.pom
+2026.10.27 10:39:11 INFO  BSP server: Downloading https://repo.scala-lang.org/artifactory/maven-nightlies/org/jline/jline-reader/4.0.14/jline-reader-4.0.14.pom
+2026.10.27 10:39:11 INFO  BSP server: Downloading https://repo.scala-lang.org/artifactory/maven-nightlies/org/scala-lang/scala3-directives-parser_3/3.9.0/scala3-directives-parser_3-3.9.0.pom
+2026.10.27 10:39:11 INFO  BSP server: Downloading https://repo.scala-lang.org/artifactory/maven-nightlies/org/jline/jline-terminal/4.0.14/jline-terminal-4.0.14.pom
+2026.10.27 10:39:13 INFO  BSP server: Failed to download https://repo.scala-lang.org/artifactory/maven-nightlies/org/jline/jline-terminal-jni/4.0.14/jline-terminal-jni-4.0.14.pom
+2026.10.27 10:39:13 INFO  BSP server: Downloading https://repo.scala-lang.org/artifactory/maven-nightlies/org/jline/jline-terminal-jni/4.0.14/jline-terminal-jni-4.0.14.pom.sha1
+2026.10.27 10:39:14 INFO  BSP server: Failed to download https://repo.scala-lang.org/artifactory/maven-nightlies/org/jline/jline-terminal-jni/4.0.14/jline-terminal-jni-4.0.14.pom.sha1
+2026.10.27 10:39:14 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/jline/jline-terminal-jni/4.0.14/jline-terminal-jni-4.0.14.pom
+2026.10.27 10:39:14 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/jline/jline-terminal-jni/4.0.14/jline-terminal-jni-4.0.14.pom
+2026.10.27 10:39:16 INFO  BSP server: Failed to download https://repo.scala-lang.org/artifactory/maven-nightlies/org/jline/jline-reader/4.0.14/jline-reader-4.0.14.pom
+2026.10.27 10:39:16 INFO  BSP server: Downloading https://repo.scala-lang.org/artifactory/maven-nightlies/org/jline/jline-reader/4.0.14/jline-reader-4.0.14.pom.sha1
+2026.10.27 10:39:16 INFO  BSP server: Failed to download https://repo.scala-lang.org/artifactory/maven-nightlies/org/jline/jline-terminal/4.0.14/jline-terminal-4.0.14.pom
+2026.10.27 10:39:16 INFO  BSP server: Downloading https://repo.scala-lang.org/artifactory/maven-nightlies/org/jline/jline-terminal/4.0.14/jline-terminal-4.0.14.pom.sha1
+2026.10.27 10:39:16 INFO  BSP server: Failed to download https://repo.scala-lang.org/artifactory/maven-nightlies/org/scala-lang/scala3-directives-parser_3/3.9.0/scala3-directives-parser_3-3.9.0.pom
+2026.10.27 10:39:16 INFO  BSP server: Downloading https://repo.scala-lang.org/artifactory/maven-nightlies/org/scala-lang/scala3-directives-parser_3/3.9.0/scala3-directives-parser_3-3.9.0.pom.sha1
+2026.10.27 10:39:16 INFO  BSP server: Failed to download https://repo.scala-lang.org/artifactory/maven-nightlies/org/jline/jline-reader/4.0.14/jline-reader-4.0.14.pom.sha1
+2026.10.27 10:39:16 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/jline/jline-reader/4.0.14/jline-reader-4.0.14.pom
+2026.10.27 10:39:16 INFO  BSP server: Failed to download https://repo.scala-lang.org/artifactory/maven-nightlies/org/scala-lang/scala3-directives-parser_3/3.9.0/scala3-directives-parser_3-3.9.0.pom.sha1
+2026.10.27 10:39:16 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/scala3-directives-parser_3/3.9.0/scala3-directives-parser_3-3.9.0.pom
+2026.10.27 10:39:16 INFO  BSP server: Failed to download https://repo.scala-lang.org/artifactory/maven-nightlies/org/jline/jline-terminal/4.0.14/jline-terminal-4.0.14.pom.sha1
+2026.10.27 10:39:16 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/jline/jline-terminal/4.0.14/jline-terminal-4.0.14.pom
+2026.10.27 10:39:16 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/jline/jline-reader/4.0.14/jline-reader-4.0.14.pom
+2026.10.27 10:39:20 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/jline/jline-terminal/4.0.14/jline-terminal-4.0.14.pom
+2026.10.27 10:39:20 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala3-directives-parser_3/3.9.0/scala3-directives-parser_3-3.9.0.pom
+2026.10.27 10:39:20 INFO  BSP server: Downloading https://repo.scala-lang.org/artifactory/maven-nightlies/org/jline/jline-parent/4.0.14/jline-parent-4.0.14.pom
+2026.10.27 10:39:20 INFO  BSP server: Failed to download https://repo.scala-lang.org/artifactory/maven-nightlies/org/jline/jline-parent/4.0.14/jline-parent-4.0.14.pom
+2026.10.27 10:39:20 INFO  BSP server: Downloading https://repo.scala-lang.org/artifactory/maven-nightlies/org/jline/jline-parent/4.0.14/jline-parent-4.0.14.pom.sha1
+2026.10.27 10:39:21 INFO  BSP server: Failed to download https://repo.scala-lang.org/artifactory/maven-nightlies/org/jline/jline-parent/4.0.14/jline-parent-4.0.14.pom.sha1
+2026.10.27 10:39:21 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/jline/jline-parent/4.0.14/jline-parent-4.0.14.pom
+2026.10.27 10:39:22 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/jline/jline-parent/4.0.14/jline-parent-4.0.14.pom
+2026.10.27 10:39:22 INFO  BSP server: Downloading https://repo.scala-lang.org/artifactory/maven-nightlies/org/jline/jline-native/4.0.14/jline-native-4.0.14.pom
+2026.10.27 10:39:22 INFO  BSP server: Failed to download https://repo.scala-lang.org/artifactory/maven-nightlies/org/jline/jline-native/4.0.14/jline-native-4.0.14.pom
+2026.10.27 10:39:22 INFO  BSP server: Downloading https://repo.scala-lang.org/artifactory/maven-nightlies/org/jline/jline-native/4.0.14/jline-native-4.0.14.pom.sha1
+2026.10.27 10:39:24 INFO  BSP server: Failed to download https://repo.scala-lang.org/artifactory/maven-nightlies/org/jline/jline-native/4.0.14/jline-native-4.0.14.pom.sha1
+2026.10.27 10:39:24 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/jline/jline-native/4.0.14/jline-native-4.0.14.pom
+2026.10.27 10:39:24 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/jline/jline-native/4.0.14/jline-native-4.0.14.pom
+2026.10.27 10:39:24 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/jline/jline-terminal-jni/4.0.14/jline-terminal-jni-4.0.14.jar
+2026.10.27 10:39:24 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/scala3-repl_3/3.9.0/scala3-repl_3-3.9.0.jar
+2026.10.27 10:39:24 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/jline/jline-native/4.0.14/jline-native-4.0.14.jar
+2026.10.27 10:39:24 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/scala3-directives-parser_3/3.9.0/scala3-directives-parser_3-3.9.0.jar
+2026.10.27 10:39:24 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/scala3-sbt-bridge/3.9.0/scala3-sbt-bridge-3.9.0.jar
+2026.10.27 10:39:24 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/jline/jline-terminal/4.0.14/jline-terminal-4.0.14.jar
+2026.10.27 10:39:25 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/jline/jline-terminal-jni/4.0.14/jline-terminal-jni-4.0.14.jar
+2026.10.27 10:39:25 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/jline/jline-reader/4.0.14/jline-reader-4.0.14.jar
+2026.10.27 10:39:25 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala3-repl_3/3.9.0/scala3-repl_3-3.9.0.jar
+2026.10.27 10:39:25 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/jline/jline-reader/4.0.14/jline-reader-4.0.14.jar
+2026.10.27 10:39:26 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala3-sbt-bridge/3.9.0/scala3-sbt-bridge-3.9.0.jar
+2026.10.27 10:39:26 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala3-directives-parser_3/3.9.0/scala3-directives-parser_3-3.9.0.jar
+2026.10.27 10:39:26 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/jline/jline-native/4.0.14/jline-native-4.0.14.jar
+2026.10.27 10:39:26 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/jline/jline-terminal/4.0.14/jline-terminal-4.0.14.jar
+2026.10.27 10:39:26 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.9.0/scala3-library_3-3.9.0-sources.jar
+2026.10.27 10:39:26 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/scala-library/3.9.0/scala-library-3.9.0-sources.jar
+2026.10.27 10:39:26 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.9.0/scala3-library_3-3.9.0-sources.jar
+2026.10.27 10:39:27 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-library/3.9.0/scala-library-3.9.0-sources.jar
+2026.10.27 10:39:27 INFO  time: Connected to build server in 35s
+2026.10.27 10:39:27 INFO  Connected to Build server: scala-cli v1.18.0
+2026.10.27 10:39:28 INFO  compiling s11-types_41e103cfb2 (1 scala source and 1 java source)
+2026.10.27 10:39:32 INFO  time: compiled s11-types_41e103cfb2 in 3.79s
+2026.10.27 10:39:34 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.10.27 10:39:34 INFO  time: indexed workspace in 6.79s
+2026.10.27 10:39:37 INFO  time: evaluated worksheet 'fs.scala.worksheet.sc' in 2.28s
+2026.10.27 10:39:37 INFO  time: evaluated worksheet 'fs.scala.worksheet.sc' in 0.5s
+2026.10.27 10:49:50 INFO  Shutting down server
+2026.10.27 10:49:50 INFO  Memory monitor stopped
+2026.10.27 10:49:50 INFO  shutting down Metals
+2026.10.27 10:49:50 INFO  Shut down connection with build server.
+2026.10.27 10:49:50 INFO  Exiting server
+2026.10.27 10:50:23 INFO  Started: Metals version 1.6.9 in folders '/Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types' for client Visual Studio Code 1.143.1.
+2026.10.27 10:50:23 INFO  Memory monitor started
+2026.10.27 10:50:24 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.10.27 10:50:24 INFO  Attempting to connect to the build server...
+2026.10.27 10:50:24 INFO  Running BSP server List(/Users/felix-etiennetrepanier/Library/Application Support/Coursier/bin/.scala-cli.aux, bsp, --json-options, /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/.scala-build/ide-launcher-options.json, --envs-file, /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/.scala-build/ide-envs.json, /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types)
+2026.10.27 10:50:24 INFO  Tracing is disabled for protocol BSP. To enable tracing of incoming and outgoing JSON messages, create an empty file at /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/.metals/bsp.trace.json or /Users/felix-etiennetrepanier/Library/Caches/org.scalameta.metals/bsp.trace.json
+2026.10.27 10:50:26 INFO  time: Connected to build server in 2.11s
+2026.10.27 10:50:26 INFO  Connected to Build server: scala-cli v1.18.0
+2026.10.27 10:50:29 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.10.27 10:50:29 INFO  time: indexed workspace in 2.74s
+2026.10.29 19:30:39 INFO  Shutting down server
+2026.10.29 19:30:39 INFO  Memory monitor stopped
+2026.10.29 19:30:39 INFO  shutting down Metals
+2026.10.29 19:30:39 INFO  Shut down connection with build server.
+2026.10.29 19:30:39 INFO  Exiting server
+2026.10.29 19:31:15 INFO  Started: Metals version 1.6.9 in folders '/Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types' for client Visual Studio Code 1.144.0.
+2026.10.29 19:31:15 INFO  Memory monitor started
+2026.10.29 19:31:15 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.10.29 19:31:16 INFO  Attempting to connect to the build server...
+2026.10.29 19:31:16 INFO  Running BSP server List(/Users/felix-etiennetrepanier/Library/Application Support/Coursier/bin/.scala-cli.aux, bsp, --json-options, /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/.scala-build/ide-launcher-options.json, --envs-file, /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/.scala-build/ide-envs.json, /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types)
+2026.10.29 19:31:16 INFO  Tracing is disabled for protocol BSP. To enable tracing of incoming and outgoing JSON messages, create an empty file at /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/.metals/bsp.trace.json or /Users/felix-etiennetrepanier/Library/Caches/org.scalameta.metals/bsp.trace.json
+2026.10.29 19:31:17 INFO  time: Connected to build server in 1.95s
+2026.10.29 19:31:17 INFO  Connected to Build server: scala-cli v1.18.0
+2026.10.29 19:31:20 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.10.29 19:31:20 INFO  time: indexed workspace in 2.37s
+2026.10.30 10:06:21 INFO  Shutting down server
+2026.10.30 10:06:21 INFO  Memory monitor stopped
+2026.10.30 10:06:21 INFO  shutting down Metals
+2026.10.30 10:06:21 INFO  Shut down connection with build server.
+2026.10.30 10:06:21 INFO  Exiting server
+2026.11.06 09:41:38 INFO  Started: Metals version 1.6.9 in folders '/Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types' for client Visual Studio Code 1.145.2.
+2026.11.06 09:41:38 INFO  Memory monitor started
+2026.11.06 09:41:39 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.11.06 09:41:39 INFO  Attempting to connect to the build server...
+2026.11.06 09:41:39 INFO  Running BSP server List(/Users/felix-etiennetrepanier/Library/Application Support/Coursier/bin/.scala-cli.aux, bsp, --json-options, /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/.scala-build/ide-launcher-options.json, --envs-file, /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/.scala-build/ide-envs.json, /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types)
+2026.11.06 09:41:39 INFO  Tracing is disabled for protocol BSP. To enable tracing of incoming and outgoing JSON messages, create an empty file at /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/.metals/bsp.trace.json or /Users/felix-etiennetrepanier/Library/Caches/org.scalameta.metals/bsp.trace.json
+2026.11.06 09:41:40 INFO  BSP server: Starting compilation server
+2026.11.06 09:41:42 INFO  time: Connected to build server in 2.37s
+2026.11.06 09:41:42 INFO  Connected to Build server: scala-cli v1.18.0
+2026.11.06 09:41:43 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.11.06 09:41:43 INFO  time: indexed workspace in 1.52s
+Nov 06, 2026 9:43:33 A.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 06, 2026 9:49:22 A.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 06, 2026 9:49:23 A.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.11.06 10:02:55 INFO  time: evaluated worksheet 'fs.scala.worksheet.sc' in 3.25s
+Nov 06, 2026 10:03:06 A.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.11.06 10:03:08 INFO  time: evaluated worksheet 'fs.scala.worksheet.sc' in 0.41s
+2026.11.06 10:03:16 INFO  Shutting down server
+2026.11.06 10:03:16 INFO  Memory monitor stopped
+2026.11.06 10:03:16 INFO  shutting down Metals
+2026.11.06 10:03:16 INFO  Shut down connection with build server.
+2026.11.06 10:03:16 INFO  BSP server: Nov 06, 2026 10:03:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+2026.11.06 10:03:16 INFO  BSP server: WARNING: Notification threw an exception: {
+2026.11.06 10:03:16 INFO  BSP server:   "jsonrpc": "2.0",
+2026.11.06 10:03:16 INFO  BSP server:   "method": "build/exit",
+2026.11.06 10:03:16 INFO  BSP server:   "params": null
+2026.11.06 10:03:16 INFO  BSP server: }
+2026.11.06 10:03:16 INFO  BSP server: java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+2026.11.06 10:03:16 INFO  BSP server: 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+2026.11.06 10:03:16 INFO  BSP server: 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+2026.11.06 10:03:16 INFO  BSP server: 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+2026.11.06 10:03:16 INFO  BSP server: 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+2026.11.06 10:03:16 INFO  BSP server: 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+2026.11.06 10:03:16 INFO  BSP server: 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+2026.11.06 10:03:16 INFO  Exiting server
+2026.11.09 08:55:55 INFO  Started: Metals version 1.6.9 in folders '/Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types' for client Visual Studio Code 1.145.2.
+2026.11.09 08:55:55 INFO  Memory monitor started
+2026.11.09 08:55:56 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.11.09 08:55:56 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/fs.scala.worksheet.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 08:55:56 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/fs.scala.worksheet.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 08:55:56 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/fs.scala.worksheet.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 08:55:57 INFO  Attempting to connect to the build server...
+2026.11.09 08:55:57 INFO  Running BSP server List(/Users/felix-etiennetrepanier/Library/Application Support/Coursier/bin/.scala-cli.aux, bsp, --json-options, /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/.scala-build/ide-launcher-options.json, --envs-file, /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/.scala-build/ide-envs.json, /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types)
+2026.11.09 08:55:57 INFO  Tracing is disabled for protocol BSP. To enable tracing of incoming and outgoing JSON messages, create an empty file at /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/.metals/bsp.trace.json or /Users/felix-etiennetrepanier/Library/Caches/org.scalameta.metals/bsp.trace.json
+Nov 09, 2026 8:55:57 A.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+2026.11.09 08:55:56 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/fs.scala.worksheet.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 08:55:57 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/fs.scala.worksheet.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 08:55:57 INFO  time: evaluated worksheet 'fs.scala.worksheet.sc' in 0.29s
+2026.11.09 08:55:58 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/fs.scala.worksheet.sc. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.09 08:55:58 INFO  BSP server: Starting compilation server
+2026.11.09 08:55:59 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java. Using fallback presentation compiler.
+2026.11.09 08:55:59 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java. Using fallback presentation compiler.
+Nov 09, 2026 8:55:59 A.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13
+2026.11.09 08:55:59 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java. Using fallback presentation compiler.
+Nov 09, 2026 8:55:59 A.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 17
+2026.11.09 08:55:59 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java. Using fallback presentation compiler.
+2026.11.09 08:55:59 INFO  no build target found for /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/src/Type.java. Using fallback presentation compiler.
+2026.11.09 08:56:01 INFO  time: Connected to build server in 4.29s
+2026.11.09 08:56:01 INFO  Connected to Build server: scala-cli v1.18.0
+2026.11.09 08:56:04 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.11.09 08:56:04 INFO  time: indexed workspace in 2.52s
+Resolving package/object name conflict in favor of package scala.caps. The object will be inaccessible.
+2026.11.09 10:16:35 INFO  Shutting down server
+2026.11.09 10:16:35 INFO  Memory monitor stopped
+2026.11.09 10:16:35 INFO  shutting down Metals
+2026.11.09 10:16:35 INFO  Shut down connection with build server.
+2026.11.09 10:16:35 INFO  Exiting server
+2026.11.09 12:22:57 INFO  Started: Metals version 1.6.9 in folders '/Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types' for client Visual Studio Code 1.145.2.
+2026.11.09 12:22:57 INFO  Memory monitor started
+2026.11.09 12:22:57 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.11.09 12:22:57 INFO  Attempting to connect to the build server...
+2026.11.09 12:22:57 INFO  Running BSP server List(/Users/felix-etiennetrepanier/Library/Application Support/Coursier/bin/.scala-cli.aux, bsp, --json-options, /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/.scala-build/ide-launcher-options.json, --envs-file, /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/.scala-build/ide-envs.json, /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types)
+2026.11.09 12:22:57 INFO  Tracing is disabled for protocol BSP. To enable tracing of incoming and outgoing JSON messages, create an empty file at /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/.metals/bsp.trace.json or /Users/felix-etiennetrepanier/Library/Caches/org.scalameta.metals/bsp.trace.json
+2026.11.09 12:22:58 INFO  BSP server: Starting compilation server
+2026.11.09 12:22:59 INFO  time: Connected to build server in 1.64s
+2026.11.09 12:22:59 INFO  Connected to Build server: scala-cli v1.18.0
+2026.11.09 12:23:00 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.11.09 12:23:00 INFO  time: indexed workspace in 1.55s
+2026.11.09 12:23:08 INFO  time: evaluated worksheet 'fs.scala.worksheet.sc' in 2.75s
+Nov 09, 2026 12:23:15 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+2026.11.09 13:11:32 INFO  Shutting down server
+2026.11.09 13:11:32 INFO  Memory monitor stopped
+2026.11.09 13:11:32 INFO  shutting down Metals
+2026.11.09 13:11:32 INFO  Shut down connection with build server.
+2026.11.09 13:11:32 INFO  Exiting server
+2026.11.09 15:01:33 INFO  Started: Metals version 1.6.9 in folders '/Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types' for client Visual Studio Code 1.145.2.
+2026.11.09 15:01:33 INFO  Memory monitor started
+2026.11.09 15:01:33 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.11.09 15:01:33 INFO  Attempting to connect to the build server...
+2026.11.09 15:01:33 INFO  Running BSP server List(/Users/felix-etiennetrepanier/Library/Application Support/Coursier/bin/.scala-cli.aux, bsp, --json-options, /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/.scala-build/ide-launcher-options.json, --envs-file, /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/.scala-build/ide-envs.json, /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types)
+2026.11.09 15:01:34 INFO  Tracing is disabled for protocol BSP. To enable tracing of incoming and outgoing JSON messages, create an empty file at /Users/felix-etiennetrepanier/Documents/enseignement/UdeS/IFT359/s11-types/.metals/bsp.trace.json or /Users/felix-etiennetrepanier/Library/Caches/org.scalameta.metals/bsp.trace.json
+2026.11.09 15:01:34 INFO  BSP server: Starting compilation server
+2026.11.09 15:01:39 INFO  time: Connected to build server in 5.16s
+2026.11.09 15:01:39 INFO  Connected to Build server: scala-cli v1.18.0
+2026.11.09 15:01:43 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.11.09 15:01:43 INFO  time: indexed workspace in 4.52s
+Nov 09, 2026 3:19:00 P.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
